@@ -2,7 +2,7 @@ import SignUpForm from "../../signup-form/signup-form.component";
 import SignInForm from "../../sign-in-form/signin-form.component";
 import { AuthenticationContainer } from "./authentication.styles";
 
-const SignIn = () => {
+const Authentication = () => {
     
 
     return(
@@ -13,4 +13,4 @@ const SignIn = () => {
     )
 };
 
-export default SignIn;
+export default Authentication;

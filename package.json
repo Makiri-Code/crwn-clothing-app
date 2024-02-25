@@ -1,7 +1,7 @@
 {
   "name": "makz_clothing_v2",
   "version": "0.1.0",
-  "homepage": "https://makiri-code.github.io/capstone_project",
+  "homepage": "https://makiri-code.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
